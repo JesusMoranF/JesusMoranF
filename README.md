@@ -7,7 +7,6 @@
     Buenas, me gusta hacer cosas.
   </p>
 
-  <br />
 
   <!-- Sección de Tecnologías y Herramientas -->
   <h2> Tecnologías y Herramientas</h2>
