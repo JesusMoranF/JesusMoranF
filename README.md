@@ -16,7 +16,6 @@
     <img src="https://skillicons.dev/icons?i=aws,html,css,js,c,cpp,java,nodejs,python,flutter,postgres,docker,github,vscode&perline=7" alt="Mis Tecnologías" />
   </a>
 
-  <br /><br />
 
   <!-- Enlaces de Contacto / Redes Sociales (Opcional) -->
   <p>
